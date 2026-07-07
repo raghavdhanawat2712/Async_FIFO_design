@@ -24,7 +24,7 @@ This repo contains verilog code for an asynchronous FIFO.
 7. [References](#references)
    
 ## Author
-[UJJWAL CHAUDHARY](https://www.linkedin.com/in/ujjwal-chaudhary-4436701aa/), M. Tech. ESE 2023-25, IISc Bangalore
+[RAGHAV DHANAWAT] B. Tech. ECE 2023-27, NIT WARANGAL
 
 ## Introduction
 
